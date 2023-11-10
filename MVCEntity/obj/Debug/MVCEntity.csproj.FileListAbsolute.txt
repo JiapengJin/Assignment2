@@ -1,0 +1,14 @@
+E:\158258\MVCApplication\MVCEntity\bin\Debug\MVCEntity.dll.config
+E:\158258\MVCApplication\MVCEntity\bin\Debug\MVCEntity.dll
+E:\158258\MVCApplication\MVCEntity\bin\Debug\MVCEntity.pdb
+E:\158258\MVCApplication\MVCEntity\bin\Debug\EntityFramework.dll
+E:\158258\MVCApplication\MVCEntity\bin\Debug\EntityFramework.SqlServer.dll
+E:\158258\MVCApplication\MVCEntity\bin\Debug\EntityFramework.xml
+E:\158258\MVCApplication\MVCEntity\bin\Debug\EntityFramework.SqlServer.xml
+E:\158258\MVCApplication\MVCEntity\bin\Debug\zh-Hans\EntityFramework.resources.dll
+E:\158258\MVCApplication\MVCEntity\bin\Debug\zh-Hans\EntityFramework.SqlServer.resources.dll
+E:\158258\MVCApplication\MVCEntity\obj\Debug\MVCEntity.csproj.AssemblyReference.cache
+E:\158258\MVCApplication\MVCEntity\obj\Debug\MVCEntity.csproj.CoreCompileInputs.cache
+E:\158258\MVCApplication\MVCEntity\obj\Debug\MVCEntity.csproj.CopyComplete
+E:\158258\MVCApplication\MVCEntity\obj\Debug\MVCEntity.dll
+E:\158258\MVCApplication\MVCEntity\obj\Debug\MVCEntity.pdb

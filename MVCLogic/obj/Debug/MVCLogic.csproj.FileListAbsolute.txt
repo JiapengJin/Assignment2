@@ -1,0 +1,17 @@
+E:\158258\MVCApplication\MVCLogic\bin\Debug\MVCLogic.dll.config
+E:\158258\MVCApplication\MVCLogic\bin\Debug\MVCLogic.dll
+E:\158258\MVCApplication\MVCLogic\bin\Debug\MVCLogic.pdb
+E:\158258\MVCApplication\MVCLogic\bin\Debug\EntityFramework.dll
+E:\158258\MVCApplication\MVCLogic\bin\Debug\EntityFramework.SqlServer.dll
+E:\158258\MVCApplication\MVCLogic\bin\Debug\MVCEntity.dll
+E:\158258\MVCApplication\MVCLogic\bin\Debug\MVCEntity.pdb
+E:\158258\MVCApplication\MVCLogic\bin\Debug\MVCEntity.dll.config
+E:\158258\MVCApplication\MVCLogic\bin\Debug\EntityFramework.xml
+E:\158258\MVCApplication\MVCLogic\bin\Debug\EntityFramework.SqlServer.xml
+E:\158258\MVCApplication\MVCLogic\obj\Debug\MVCLogic.csproj.AssemblyReference.cache
+E:\158258\MVCApplication\MVCLogic\obj\Debug\MVCLogic.csproj.CoreCompileInputs.cache
+E:\158258\MVCApplication\MVCLogic\obj\Debug\MVCLogic.csproj.CopyComplete
+E:\158258\MVCApplication\MVCLogic\obj\Debug\MVCLogic.dll
+E:\158258\MVCApplication\MVCLogic\obj\Debug\MVCLogic.pdb
+E:\158258\MVCApplication\MVCLogic\bin\Debug\Newtonsoft.Json.dll
+E:\158258\MVCApplication\MVCLogic\bin\Debug\Newtonsoft.Json.xml
